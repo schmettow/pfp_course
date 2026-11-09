@@ -1,5 +1,7 @@
 # Programming for Psychologists 2026 — Six-day lesson plan
 
+Find the [time table](https://cloud.timeedit.net/nl_utwente/web/staff/ri15567y6Z0255Q097QQY201Z567047Q367W55.html) with times and rooms.
+
 > **Every day has the same four elements:**
 >
 > 1. **Learning goal** — a general programming technique.
